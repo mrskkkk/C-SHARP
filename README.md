@@ -1,2 +1,2 @@
 # C#
-stack and queue
+stack and queue.
